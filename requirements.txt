@@ -17,7 +17,7 @@ httpsproxy-urllib2==1.0
 idna==2.6
 idna-ssl==1.1.0
 keyring==13.1.0
-lxml==4.2.1
+lxml==4.6.3
 M2CryptoWin64==0.21.1.post3
 motor==2.0.0
 multidict==4.5.1
