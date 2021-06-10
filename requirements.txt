@@ -9,7 +9,7 @@ browsercookie2==0.7.1
 certifi==2018.4.16
 chardet==3.0.4
 cssselect==1.0.3
-Django==2.0.1
+Django==2.2.24
 entrypoints==0.2.3
 fake-useragent==0.1.11
 hiredis==0.3.0
